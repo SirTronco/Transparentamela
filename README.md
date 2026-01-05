@@ -1,5 +1,7 @@
 # Transparentamela
-Utilidad simple en Python para situar una imagen con transparencia y Click-Trhough
+Utilidad simple en Python para situar una imagen con transparencia y Click-Trhough.
+
+Para descargarla para Windows 64 bits https://github.com/SirTronco/Transparentamela/blob/main/dist/Transparentamela.exe
 
 # ¿Porqué?
 Necesitaba un teclado en pantalla que se puediera ver en todo momento pero que no molestara. Pero no encontré nada que fuera fácil, sencillo y ligero. Lo podía hacer fácil con Visual Studio C# pero...¡Qué pereza! Así que le pregunté a "Chattie" si había alguna forma de hacer una aplicación Win32 en Python y me dijo:
