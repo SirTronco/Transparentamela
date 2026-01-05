@@ -1,0 +1,16 @@
+# Carpeta art
+art/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos de desarrollo
+node_modules/
+__pycache__/
+*.pyc
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
