@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=icono.ico --add-data "Transparentamela.ui;." --add-data "Default.png;." --add-data "Icono.ico;." Transparentamela.py
