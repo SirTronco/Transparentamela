@@ -15,3 +15,11 @@ Necesitaba un teclado en pantalla que se puediera ver en todo momento pero que n
  - Guardar preferencias (y resetearlas) y imagen de carga
  - Opción para fijar la imagen en uno de los bordes
  - Opción para "fit/stretch" de la imagen en la pantalla
+
+# Secuencias
+Para ejecutar: Nada, simplemente
+```python Transparentamela.py```
+
+Para compilar:
+Hay que incluir tanto el archivo de formulario, el icono del programa y la imagen por defecto
+```pyinstaller --onefile --windowed --icon=icono.ico --add-data "Transparentamela.ui;." --add-data "Default.png;." --add-data "Icono.ico;." Transparentamela.py```
