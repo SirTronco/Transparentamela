@@ -12,7 +12,10 @@ Necesitaba un teclado en pantalla que se puediera ver en todo momento pero que n
  # Dependencias
   - Python versión 3.12.10
   - PyInstaller versión 6.17.00
+<<<<<<< HEAD
   - PySider6 que incluye: Qt, Widgets, Herramientas, Qt Designer
+=======
+>>>>>>> HEAD@{1}
 
 # TODO
  - Guardar preferencias (y resetearlas) y imagen de carga
