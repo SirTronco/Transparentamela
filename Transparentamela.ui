@@ -170,11 +170,7 @@
       </rect>
      </property>
      <property name="text">
-<<<<<<< HEAD
-      <string>MADAFACA</string>
-=======
-      <string>Cargar imatge</string>
->>>>>>> HEAD@{1}
+      <string>Cargar Imatge</string>
      </property>
     </widget>
    </widget>
