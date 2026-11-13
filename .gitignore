@@ -14,3 +14,11 @@ __pycache__/
 .vscode/
 .idea/
 *.swp
+
+# Entorns virtuals
+env/
+venv/
+
+# Eixida de PyInstaller
+build/
+*.spec
