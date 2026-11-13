@@ -1,0 +1,3 @@
+pip
+pyinstaller
+pyside6
